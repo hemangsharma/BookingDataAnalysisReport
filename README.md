@@ -109,16 +109,6 @@ The generated PDF includes multiple graphs for a visual overview of your booking
 - The script tries to coerce errors in date parsing and numeric conversion.
 - Make sure your input data uses consistent formatting (e.g., `AUD` or `$` in price columns).
 
----
-
-## 📌 To Do / Ideas for Improvement
-
-- Add CLI support for easier file input
-- Add more visualizations (e.g., heatmaps, time series trends)
-- Automate the generation of monthly reports
-- Integrate with a dashboard or web frontend
-
----
 
 ## 📬 Contact
 
